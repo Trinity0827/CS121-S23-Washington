@@ -1,7 +1,7 @@
 # CS121-S23-Washington
-| Number | Folder | Description
+| Number | Package | Description
 | :----: | ------ | --------- |
-| 01 | [Week 1 file]() | Dialogbox & Scanner |
+| 01 | [Classes() | Classes and Objects |
 
 | Test1  |   Test2  |  Test3 |
 | :----: | ------ | --------- |
