@@ -1,0 +1,4 @@
+course credit score
+cs200 3 96
+cs311 4 87
+cs222 3 93
